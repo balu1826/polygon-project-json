@@ -1,0 +1,372 @@
+{
+    "id": "ethereum",
+    "description": "Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. It is the second-largest cryptocurrency by market capitalization, after Bitcoin. Ethereum is the most actively used blockchain.",
+    "tags": [
+        "pos",
+        "smart contracts",
+        "ethereum ecosystem",
+        "layer 1",
+        "evm"
+    ],
+    "coin_details": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "logo": "logo/ethereum.png",
+        "max_supply": "∞"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"      "name": "Chainlink",
+      "url": "https://chain.link/",
+      "description": "Chainlink is a decentralized oracle network that enables smart contracts on various blockchain platforms to securely interact with external data sources, APIs, and payment systems. It provides reliable and tamper-proof data feeds for decentralized applications (DApps) and smart contracts.",
+    },
+    {
+      "name": "Band Protocol",
+      "url": "https://bandprotocol.com/",
+      "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data to smart contracts. It offers a decentralized data governance mechanism and ensures the accuracy and reliability of external data feeds used by decentralized applications (DApps).",
+    },
+    {
+      "name": "Tellor",
+      "url": "https://tellor.io/",
+      "description": "Tellor is a decentralized oracle network that provides secure and reliable off-chain data for smart contracts on Ethereum. It utilizes a decentralized network of miners to fetch and verify data from various sources, ensuring the integrity and accuracy of data feeds.",
+    },
+    {
+      "name": "API3",
+      "url": "https://api3.org/",
+      "description": "API3 is a decentralized oracle network that focuses on providing data feeds for Web 3.0 applications. It offers a decentralized governance model and utilizes first-party oracle solutions to ensure the reliability, security, and scalability of off-chain data.",
+    },
+    {
+      "name": "Razor Network",
+      "url": "https://razor.network/",
+      "description": "Razor Network is a decentralized oracle network that provides secure and decentralized data feeds for smart contracts on Ethereum. It utilizes a unique consensus mechanism to ensure the accuracy and reliability of data feeds, making it suitable for various decentralized applications (DApps).",
+    },
+    {
+      "name": "DIA",
+      "url": "https://diadata.org/",
+      "description": "DIA (Decentralised Information Asset) is an open-source platform that provides transparent and reliable oracles for the DeFi ecosystem. It offers access to a wide range of financial and economic data, enabling decentralized applications (DApps) to securely interact with external data sources.",
+    },
+    {
+      "name": "Provable",
+      "url": "https://provable.xyz/",
+      "description": "Provable (formerly known as Oraclize) is a trusted oracle service provider that enables secure and reliable data delivery to smart contracts on various blockchain platforms. It offers a decentralized oracle network and ensures the integrity and accuracy of off-chain data used by decentralized applications (DApps).",
+    },
+    {
+      "name": "Chronicle",
+      "url": "https://chroniclelabs.org/",
+      "description": "Chronicle is a decentralized oracle network that provides secure and reliable data feeds for smart contracts on Ethereum. It offers a decentralized governance model and utilizes cryptographic techniques to ensure the integrity and authenticity of off-chain data.",
+   
+
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L1"
+        },
+        {
+            "name": "Chain Type",
+            "type": "EVM"
+        }
+    ],
+    "official_links": {
+        "website": "https://ethereum.org/en/",
+        "whitepaper": "https://ethereum.org/en/whitepaper/",
+        "documentation": "https://ethereum.org/en/developers/docs/",
+        "forum": "https://ethereum-magicians.org/",
+        "github": "https://github.com/ethereum/go-ethereum"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/ethereum-org",
+        "twitter": "https://twitter.com/ethereum",
+        "reddit": "https://reddit.com/r/ethereum",
+        "community": "https://ethereum.org/community/online",
+        "coinmarketcap_community": "https://coinmarketcap.com/community/profile/Ethereum/",
+        "twitter_hashtag": "https://twitter.com/hashtag/Ethereum"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/ethereum/",
+            "description":   "CoinMarketCap is a cryptocurrency market data website that provides comprehensive information on various cryptocurrencies, including Ethereum. This specific link provides    	    detailed information about Ethereum, including its market capitalization, price, volume, and other metrics.",    
+                               
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/ethereum"
+            "description": "CoinGecko is a cryptocurrency data platform that provides comprehensive information on various cryptocurrencies, including Ethereum. This specific link provides detailed 		     information about Ethereum, including its price, market capitalization, trading volume, and other metrics.",
+                          
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/Ethereum"
+            "description":  "DeFiLlama is a platform that tracks decentralized finance (DeFi) protocols across various blockchain networks. This specific link provides information on DeFi protocols 		     operating on the Ethereum blockchain.",
+     
+                         
+        },
+        {
+            "name": "DappRadar",
+            "url": "https://dappradar.com/chain/ethereum"
+ 	     "description": "DappRadar is a platform that tracks decentralized applications (DApps) across various blockchain networks. This specific link provides information on DApps operating on the 	      Ethereum blockchain.",
+                               
+        },
+        {
+            "name": "CryptoCompare",
+            "url": "https://www.cryptocompare.com/coins/eth/overview"
+	    "description": "CryptoCompare is a cryptocurrency data platform that provides comprehensive information on various cryptocurrencies, including Ethereum (ETH). This specific link provides an     	      overview of Ethereum, including its price, market capitalization, historical data, and other metrics.",
+     	      
+        },
+        {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com/symbols/ETHUSD/"
+	    "description": "TradingView is a platform for traders and investors to analyze financial markets, including the Ethereum to US Dollar (ETH/USD) trading pair."
+    
+        },
+        {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/price/ethereum/"
+	    "description": "CoinDesk is a news site specializing in bitcoin and digital currencies. It offers breaking news, expert analysis, and price data on Ethereum and other cryptocurrencies."
+    		
+        },
+        {
+            "name": "Investing",
+            "url": "https://www.investing.com/crypto/ethereum/eth-usd"
+	    "descriptionm: Investing.com is a financial markets platform providing real-time data, quotes, charts, and news for various assets including cryptocurrencies like Ethereum (ETH) against the US    	     Dollar (USD).",
+        },
+        {
+            "name": "MarketWatch",
+            "url": "https://www.marketwatch.com/investing/cryptocurrency/ethusd"
+            "description:  MarketWatch is a financial information website that provides business news, analysis, and stock market data. This specific link provides information on the Ethereum to US Dollar      	    (ETH/USD) cryptocurrency pair.",
+   
+        },
+        {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/ETH-USD"
+	    "description": "Yahoo Finance is a financial news and data website operated by Yahoo, providing stock market updates, business news, and financial analysis. This specific link provides   		     information on the Ethereum to US Dollar (ETH/USD) trading pair.",
+        }
+    ],
+    "explorers": [
+        {
+            "name": "Etherscan",
+            "url": "https://etherscan.io/"
+	    "description: "Etherscan is a blockchain explorer for the Ethereum blockchain. It provides users with information about blocks, transactions, addresses, and other activities on the Ethereum   	     network.",
+        },
+        {
+     	    "name": "Blockchair",
+                            "url": "https://blockchair.com/ethereum",
+                             "description": "Blockchair is a blockchain explorer and analytics platform that provides data and insights into the Ethereum blockchain. It offers tools for searching, analyzing, and  	   	     visualizing Ethereum transactions, addresses, and smart contracts.",
+          },
+                 {
+      	  "name": "Parsec",
+                         "url": "https://parsec.fi/",
+                         "description": "Parsec is a decentralized finance (DeFi) platform built on the Ethereum blockchain. It aims to provide solutions for managing, optimizing, and automating DeFi investments, with                 	    features such as automated portfolio rebalancing and yield optimization.",
+                  },
+       {
+           "name": "OKLink",
+   	      "url": "https://www.oklink.com/eth",
+      	    "description": "OKLink provides blockchain explorers and analytics tools for various blockchain networks, including Ethereum. Their platform offers insights into transactions, addresses, and 	     smart contracts on the Ethereum blockchain.",
+    },
+    {
+      "name": "Ethplorer",
+      "url": "https://ethplorer.io/",
+      "description": "Ethplorer is a blockchain explorer and analytics platform for the Ethereum blockchain. It provides users with information about transactions, token transfers, addresses, and smart contracts.",
+    },
+    {
+      "name": "TokenView",
+      "url": "https://eth.tokenview.io/",
+      "description": "TokenView is a blockchain explorer and analytics platform for the Ethereum blockchain. It offers insights into transactions, token transfers, addresses, and smart contracts.",
+    },
+    {
+      "name": "3xpl",
+      "url": "https://3xpl.com/ethereum",
+      "description": "3xpl is a blockchain explorer for the Ethereum blockchain. It provides users with information about transactions, addresses, and smart contracts.",
+    },
+    {
+      "name": "BlockSec",
+      "url": "https://phalcon.blocksec.com/explorer",
+      "description": "BlockSec is a blockchain explorer for the Ethereum blockchain. It provides users with information about transactions, addresses, and smart contracts.",
+    },
+    {
+      "name": "OpenChain",
+      "url": "https://openchain.xyz/trace",
+      "description": "OpenChain is a blockchain explorer for the Ethereum blockchain. It provides users with information about transactions, addresses, and smart contracts.",
+   
+        },
+        {
+           "name": "Tenderly",
+     	    "url": "https://dashboard.tenderly.co/explorer",
+      	   "description": "Tenderly is a platform that provides tools for debugging, monitoring, and analyzing Ethereum smart contracts. Their explorer allows users to track and analyze transactions,     	     	    contracts, and events on the Ethereum blockchain.",
+    },
+    {
+      "name": "Dedaub",
+      "url": "https://app.dedaub.com/?network=ethereum",
+      "description": "Dedaub is a platform for auditing and analyzing Ethereum smart contracts. It offers tools for code verification, security analysis, and contract monitoring on the Ethereum blockchain.", 
+        }
+    ],
+    "bridges": [
+        {
+           
+       "name": "Layer Zero",
+      "url": "https://layerzero.network/",
+      "description": "Layer Zero is a decentralized protocol for cross-chain asset transfers and liquidity provision. It aims to provide efficient and secure interoperability solutions for blockchain networks.",
+    },
+    {
+      "name": "Axelar",
+      "url": "https://axelar.network/",
+      "description": "Axelar is a decentralized interoperability network that enables seamless communication and asset transfers between different blockchains. It focuses on providing trustless and efficient cross-chain solutions.",
+    },
+    {
+      "name": "Hop Protocol",
+      "url": "https://hop.exchange/",
+      "description": "Hop Protocol is a layer-2 scaling solution and interoperability protocol for Ethereum and other blockchain networks. It aims to provide fast, secure, and low-cost transactions across different chains.",
+    },
+    {
+      "name": "Connext",
+      "url": "https://connext.network/",
+      "description": "Connext is a non-custodial layer-2 scaling solution for Ethereum. It enables instant, low-cost transactions and facilitates interoperability between Ethereum and other blockchain networks.",
+    },
+    {
+      "name": "Wormhole",
+      "url": "https://wormhole.com/",
+      "description": "Wormhole is a decentralized bridge protocol that facilitates token transfers and interoperability between different blockchain networks. It provides trustless and efficient cross-chain communication.",
+    },
+    {
+      "name": "Stargate",
+      "url": "https://stargate.finance/",
+      "description": "Stargate is a decentralized finance (DeFi) protocol that offers cross-chain liquidity pools and yield farming opportunities. It enables users to earn rewards by providing liquidity across multiple blockchain networks.",
+  
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bug Bounty Program",
+     	     "url": "https://ethereum.org/en/bug-bounty/",
+                              "description": "The Bug Bounty Program is an initiative by Ethereum to incentivize security researchers to discover and report vulnerabilities in Ethereum's protocol and related projects.                  	     Rewards are provided for valid reports, helping to improve the security and reliability of the Ethereum network.",
+        }
+    ],
+    "grants": [
+        {
+             "name": "Ethereum Foundation",
+    	      "url": "https://ethereum.org/en/community/grants/",
+                              "description": "The Ethereum Foundation is a non-profit organization dedicated to supporting the development and adoption of Ethereum. It provides grants to individuals and projects working on 	    improving the Ethereum ecosystem, including research, development, education, and community building.",
+        }
+    ],
+    "faucets": [
+        {
+           "name": "Alchemy",
+      "url": "https://goerlifaucet.com",
+      "description": "Alchemy is a faucet service that provides free testnet Ether (ETH) for developers and users to test their applications and smart contracts on the Ethereum Goerli test network.",
+    },
+    {
+      "name": "QuickNode",
+      "url": "https://faucet.quicknode.com/ethereum",
+      "description": "QuickNode offers a faucet service that distributes free Ether (ETH) for testing purposes on the Ethereum mainnet. Developers and users can use this service to obtain small amounts of Ether for their testing needs.",
+    },
+    {
+      "name": "All That Node",
+      "url": "https://www.allthatnode.com/faucet/ethereum.dsrv",
+      "description": "All That Node hosts a faucet service that provides free testnet Ether (ETH) for developers and users to experiment and test their applications on the Ethereum test networks. This faucet supports various testnets, including Ropsten, Rinkeby, and Goerli.",
+    },
+    {
+      "name": "Holesky PoW Faucet",
+      "url": "https://holesky-faucet.pk910.de/",
+      "description": "Holesky PoW Faucet is a faucet service that distributes free testnet Ether (ETH) for developers and users to use on the Ethereum test networks. It aims to support testing and development activities by providing a source of testnet Ether.",
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Chainlist",
+      	    "url": "https://chainlist.org/chain/1",
+      	    "description": "Chainlist is a platform that provides information and data about various Ethereum-based chains. It offers insights into different Ethereum networks, including mainnet and 		     testnets, along with details about supported assets, contracts, and statistics.",
+        }
+    ],
+    "wallets": [
+        {
+           
+      "name": "Wallet Finder",
+      "url": "https://ethereum.org/wallets/find-wallet",
+      "description": "Wallet Finder is a tool provided by Ethereum.org to help users find suitable Ethereum wallets based on their specific needs and preferences. It offers a curated list of wallets with details about features, compatibility, and security.",
+    },
+    {
+      "name": "Metamask",
+      "url": "https://metamask.io/",
+      "description": "Metamask is a popular Ethereum wallet browser extension that allows users to interact with decentralized applications (DApps) and manage Ethereum-based assets directly from their web browser. It offers features such as secure key management, token swaps, and decentralized finance (DeFi) integration.",
+    },
+    {
+      "name": "Safe",
+      "url": "https://safe.global/",
+      "description": "Safe is a multi-chain wallet and smart contract management platform. It provides users with a secure and user-friendly interface for managing their crypto assets, interacting with decentralized applications (DApps), and executing smart contracts across multiple blockchain networks.",
+    },
+    {
+      "name": "Rainbow",
+      "url": "https://rainbow.me/",
+      "description": "Rainbow is a mobile cryptocurrency wallet that supports Ethereum and various other blockchain networks. It offers a simple and intuitive interface for managing digital assets, sending and receiving payments, and interacting with decentralized applications (DApps) on the Ethereum network.",
+    },
+    {
+      "name": "Coinbase Wallet",
+      "url": "https://www.coinbase.com/wallet",
+      "description": "Coinbase Wallet is a non-custodial cryptocurrency wallet provided by Coinbase. It allows users to securely store, send, and receive a wide range of cryptocurrencies, including Ethereum (ETH). Additionally, it offers features such as decentralized finance (DeFi) integration and support for decentralized applications (DApps).",
+    },
+    {
+      "name": "OKX",
+      "url": "https://www.okx.com/web3",
+      "description": "OKX is a cryptocurrency exchange that provides a built-in web3 wallet for users to securely store and manage their digital assets, including Ethereum (ETH) and other cryptocurrencies. It offers features such as decentralized finance (DeFi) integration, token swaps, and support for decentralized applications (DApps).",
+    },
+    {
+      "name": "Trezor",
+      "url": "https://trezor.io/",
+      "description": "Trezor is a hardware cryptocurrency wallet that provides users with a secure offline storage solution for their digital assets, including Ethereum (ETH) and various other cryptocurrencies. It offers features such as secure key storage, transaction signing, and compatibility with popular cryptocurrency wallets and applications.",
+    },
+    {
+      "name": "Ledger",
+      "url": "https://www.ledger.com/",
+      "description": "Ledger is a hardware cryptocurrency wallet that offers secure offline storage for users' digital assets, including Ethereum (ETH) and other cryptocurrencies. It provides users with a high level of security through features such as secure key storage, transaction signing, and compatibility with various cryptocurrency wallets and applications.",
+   
+        }
+    ],
+    "oracles": [
+        {
+                 "name": "Chainlink",
+      "url": "https://chain.link/",
+      "description": "Chainlink is a decentralized oracle network that enables smart contracts on various blockchain platforms to securely interact with external data sources, APIs, and payment systems. It provides reliable and tamper-proof data feeds for decentralized applications (DApps) and smart contracts.",
+    },
+    {
+      "name": "Band Protocol",
+      "url": "https://bandprotocol.com/",
+      "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data to smart contracts. It offers a decentralized data governance mechanism and ensures the accuracy and reliability of external data feeds used by decentralized applications (DApps).",
+    },
+    {
+      "name": "Tellor",
+      "url": "https://tellor.io/",
+      "description": "Tellor is a decentralized oracle network that provides secure and reliable off-chain data for smart contracts on Ethereum. It utilizes a decentralized network of miners to fetch and verify data from various sources, ensuring the integrity and accuracy of data feeds.",
+    },
+    {
+      "name": "API3",
+      "url": "https://api3.org/",
+      "description": "API3 is a decentralized oracle network that focuses on providing data feeds for Web 3.0 applications. It offers a decentralized governance model and utilizes first-party oracle solutions to ensure the reliability, security, and scalability of off-chain data.",
+    },
+    {
+      "name": "Razor Network",
+      "url": "https://razor.network/",
+      "description": "Razor Network is a decentralized oracle network that provides secure and decentralized data feeds for smart contracts on Ethereum. It utilizes a unique consensus mechanism to ensure the accuracy and reliability of data feeds, making it suitable for various decentralized applications (DApps).",
+    },
+    {
+      "name": "DIA",
+      "url": "https://diadata.org/",
+      "description": "DIA (Decentralised Information Asset) is an open-source platform that provides transparent and reliable oracles for the DeFi ecosystem. It offers access to a wide range of financial and economic data, enabling decentralized applications (DApps) to securely interact with external data sources.",
+    },
+    {
+      "name": "Provable",
+      "url": "https://provable.xyz/",
+      "description": "Provable (formerly known as Oraclize) is a trusted oracle service provider that enables secure and reliable data delivery to smart contracts on various blockchain platforms. It offers a decentralized oracle network and ensures the integrity and accuracy of off-chain data used by decentralized applications (DApps).",
+    },
+    {
+      "name": "Chronicle",
+      "url": "https://chroniclelabs.org/",
+      "description": "Chronicle is a decentralized oracle network that provides secure and reliable data feeds for smart contracts on Ethereum. It offers a decentralized governance model and utilizes cryptographic techniques to ensure the integrity and authenticity of off-chain data.",
+  
+        }
+    ]
+}
